@@ -44,6 +44,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 13.Import the model building Libraries
 
 14.Initializing the model
+
 #Pre-Requisites
 #Anaconda Navigator :
 
@@ -66,7 +67,9 @@ Keras leverages various optimization techniques to make high-level neural networ
 4.It is a user-friendly framework that runs on both CPU and GPU.
 
 5.Highly scalability of computation.
+
 #Flask:
+
 Web framework used for building Web applications
 
 #Prior Knowledge:
